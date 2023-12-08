@@ -1,0 +1,16 @@
+{
+    "name": "Demo.Controllers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e68e26524e17c4c8bbae101d1510cbdc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
